@@ -1,0 +1,13 @@
+.card li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.card p {
+    font-size: 30px;
+}
+
+.card:hover {
+    background-color: antiquewhite;
+    color: palevioletred;
+}
